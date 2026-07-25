@@ -2,6 +2,8 @@
 
 Computer Science student at **Texas A&M University** ('28). I build end-to-end systems: ML pipelines, developer tools, and full-stack products that real people (starting with me) use every day.
 
+More about me at **[patricksemler.dev](https://patricksemler.dev)**.
+
 ## What I'm doing now
 
 - 🔬 **Machine Learning Research Assistant** at Texas A&M, building a veterinary diagnostic prediction pipeline: memory-optimized random-forest inference across 144 conditions, plus a retrieval-augmented generation stage grounded in full case context to eliminate hallucinated care plans
@@ -26,4 +28,4 @@ Computer Science student at **Texas A&M University** ('28). I build end-to-end s
 
 ## Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/patricksemler) · [Resume](./Patrick_Semler_Resume.pdf) · [patricksemler@tamu.edu](mailto:patricksemler@tamu.edu)
+[patricksemler.dev](https://patricksemler.dev) · [LinkedIn](https://www.linkedin.com/in/patricksemler) · [Resume](./Patrick_Semler_Resume.pdf) · [patricksemler@tamu.edu](mailto:patricksemler@tamu.edu)
