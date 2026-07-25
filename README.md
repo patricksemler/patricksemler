@@ -19,10 +19,10 @@ I'm a Computer Science student at **Texas A&M University** ('28) who likes build
 
 ## Tools I reach for
 
-**Languages:** TypeScript, Python, JavaScript, C++, SQL, Java
-**Frameworks:** React, Fastify, Flask, Node.js, scikit-learn, Pandas, Plotly, pytest
-**Infrastructure:** PostgreSQL, Supabase, Firebase, Docker, AWS
-**Protocols & tooling:** Git, REST APIs, MCP
+- **Languages:** TypeScript, Python, JavaScript, C++, SQL, Java
+- **Frameworks:** React, Fastify, Flask, Node.js, scikit-learn, Pandas, Plotly, pytest
+- **Infrastructure:** PostgreSQL, Supabase, Firebase, Docker, AWS
+- **Protocols & tooling:** Git, REST APIs, MCP
 
 ## Get in touch
 
