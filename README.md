@@ -28,4 +28,4 @@ More about me at **[patricksemler.dev](https://patricksemler.dev)**.
 
 ## Get in touch
 
-[patricksemler.dev](https://patricksemler.dev) · [LinkedIn](https://www.linkedin.com/in/patricksemler) · [Resume](./Patrick_Semler_Resume.pdf) · [patricksemler@tamu.edu](mailto:patricksemler@tamu.edu)
+[patricksemler.dev](https://patricksemler.dev) · [LinkedIn](https://www.linkedin.com/in/patricksemler) · [Resume](https://patricksemler.dev/resume.pdf) · [patricksemler@tamu.edu](mailto:patricksemler@tamu.edu)
