@@ -26,4 +26,4 @@ Computer Science student at **Texas A&M University** ('28). I build end-to-end s
 
 ## Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/patricksemler) · [Resume](./Patrick_Semler_Resume.pdf) · [psemler07@tamu.edu](mailto:psemler07@tamu.edu)
+[LinkedIn](https://www.linkedin.com/in/patricksemler) · [Resume](./Patrick_Semler_Resume.pdf) · [patricksemler@tamu.edu](mailto:patricksemler@tamu.edu)
