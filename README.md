@@ -1,30 +1,34 @@
 # Hi, I'm Patrick 👋
 
-Computer Science student at **Texas A&M University** ('28). I build end-to-end systems: ML pipelines, developer tools, and full-stack products that real people (starting with me) use every day.
+Computer Science student at **Texas A&M University** ('28), building full-stack and AI/LLM products. I like building software for problems I run into, and I still enjoy the part of programming that hooked me early on: figuring out why something broke and making it work better the next time.
 
 More about me at **[patricksemler.dev](https://patricksemler.dev)**.
 
 ## What I'm doing now
 
-- 🔬 **Machine Learning Research Assistant** at Texas A&M, building a veterinary diagnostic prediction pipeline: memory-optimized random-forest inference across 144 conditions, plus a retrieval-augmented generation stage grounded in full case context to eliminate hallucinated care plans
-- 💼 **Full-Stack Developer** at Apply Finch, an AI job-application platform built by a 5-developer team: multi-factor posting ranking, tailored resume and cover letter generation, and a hardened asynchronous scraping pipeline (React, TypeScript, Flask, PostgreSQL, AWS)
-- 📈 Previously a **Quantitative Developer** at Maroon Fund, where I improved backtest fidelity (slippage, commissions, forced exits) and shipped risk-adjusted strategy evaluation backed by an automated pytest suite
+- 🐄 **Research Software Engineer** at Texas A&M (AISFS): built a five-stage [U.S. beef supply-chain simulator](https://github.com/patricksemler/beef-chain-simulator) with weighted representative agents that runs 30 million head over 10 years and 250 trials in under 0.6 seconds, fed by an automated pipeline that turns 179,206 rows from four USDA ERS sources into 11 annual profiles
+
+## Previously
+
+- 🔬 **Machine Learning Research Engineer** at Texas A&M (AISFS): cut a veterinary random-forest model's peak memory 74% (2.6 GB → 689 MB) so it could deploy on Vercel while holding accuracy, and built a RAG pipeline with Voyage embeddings, Supabase pgvector, and dual-query reciprocal-rank fusion that retrieves the correct source nearly 1.5× as often as single-query search
+- 💼 **Software Engineer Intern** at [Finch](https://applyfinch.com): rebuilt onboarding as a resume-first flow alongside a new job board (signup-to-dashboard time down ~99% in automated testing), and built a job-matching pipeline that ranks jobs by fit, recency, and network signals with tailored resumes and cover letters
 
 ## Featured projects
 
 | Project | What it is |
 |---|---|
-| [**LeetMind**](https://github.com/patricksemler/LeetMind) | Adaptive coding-practice platform. Generates original, deterministically verified algorithm problems, judges code in sandboxed Docker containers through a hand-built Postgres job queue, and models per-concept mastery with an explainable learner. 549 tests, chaos-tested worker recovery. *(TypeScript, Python, React, Fastify, PostgreSQL, Docker)* |
-| [**Phobos**](https://github.com/patricksemler/Phobos) | Personal AI assistant with 63 natural-language tools across 13 capability modules, driven from a Telegram bot and a realtime React dashboard. An agent runtime translates requests into schema-validated tool calls behind approval gates and secret-redacted audit logs. *(TypeScript, React, Node.js, Supabase, MCP)* |
+| [**LeetMind**](https://leetmind.patricksemler.dev) | Adaptive coding-practice platform that tracks Elo ratings across 20 algorithm concepts and generates problems aimed at each learner's gaps. Every AI-generated problem is independently solved by a separate model and only published when both solutions agree on all authored tests and 50 randomized inputs. Submissions run in isolated Docker containers. [Source](https://github.com/patricksemler/LeetMind) *(TypeScript, Python, React, FastAPI, PostgreSQL, Docker)* |
+| [**LiftLedger**](https://liftledger.patricksemler.dev) | Fitness dashboard combining Hevy workouts, Apple Health, and Telegram meal logging, with a muscle-heatmap body chart, goal tracking, and a tool-calling AI assistant. The Telegram logger turns meal photos and text into calorie and macro entries grounded in USDA data. [Source](https://github.com/patricksemler/LiftLedger) *(TypeScript, React, Hono, PostgreSQL, Vercel AI SDK)* |
 | [**AudioTag**](https://github.com/patricksemler/AudioTag) | Free, open-source bulk audio tag editor for Windows and macOS. Spreadsheet-style metadata editing with a fast, keyboard-driven, screen-reader-friendly UI. *(TypeScript)* |
 | [**Nanochain**](https://github.com/patricksemler/Nanochain) | A small proof-of-work blockchain in C++17 with signed transactions, fee-priority mining, Merkle proofs, and full-chain validation. *(C++)* |
 
 ## Tools I reach for
 
-- **Languages:** TypeScript, Python, JavaScript, C++, SQL, Java
-- **Frameworks:** React, Fastify, Flask, Node.js, scikit-learn, Pandas, Plotly, pytest
-- **Infrastructure:** PostgreSQL, Supabase, Firebase, Docker, AWS
-- **Protocols and tooling:** Git, REST APIs, MCP
+- **Languages:** TypeScript, JavaScript, Python, C++, SQL
+- **Web and APIs:** React, Vite, Tailwind CSS, FastAPI, Flask, Django, Hono, Node.js, REST APIs
+- **Data and infrastructure:** PostgreSQL, Supabase, Docker, Cloudflare Workers, Vercel
+- **ML and AI:** scikit-learn, ONNX Runtime, RAG, Vercel AI SDK
+- **Testing and tools:** Git, pytest, Vitest, Playwright, Testing Library, Claude Code, Codex
 
 ## Get in touch
 
